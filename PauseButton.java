@@ -25,7 +25,7 @@ public class PauseButton extends Rectangle
 
         BufferedImage temp = null;
         try {
-            temp =ImageIO.read(getClass().getResourceAsStream("res/play.png"));
+            temp =ImageIO.read(getClass().getResourceAsStream("play.png"));
         } catch (IOException e) {
             // TODO Auto-generated catch block
             e.printStackTrace();
