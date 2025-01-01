@@ -25,8 +25,8 @@ public class MenuButton extends Rectangle
 
         BufferedImage temp = null;
         try {
-            temp =ImageIO.read(getClass().getResourceAsStream("res/button_atlas.png"));
-            bgImg =ImageIO.read(getClass().getResourceAsStream("res/bgImg.png"));
+            temp =ImageIO.read(getClass().getResourceAsStream("button_atlas.png"));
+            bgImg =ImageIO.read(getClass().getResourceAsStream("bgImg.png"));
         } catch (IOException e) {
             // TODO Auto-generated catch block
             e.printStackTrace();
