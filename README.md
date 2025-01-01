@@ -2,7 +2,7 @@
 
 ## Goal
 
-Hit as many balls as possible. Play for more than 3 minutes if you can.
+Hit ball as many times as possible. Play for more than 3 minutes if you can.
 
 ## Controls
 
